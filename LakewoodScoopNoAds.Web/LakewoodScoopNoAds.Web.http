@@ -1,0 +1,6 @@
+@LakewoodScoopNoAds.Web_HostAddress = http://localhost:5257
+
+GET {{LakewoodScoopNoAds.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
